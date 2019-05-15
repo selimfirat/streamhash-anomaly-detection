@@ -1,5 +1,5 @@
 # Anomaly Detection Algorithms Combined with Streamhash
-This repository contains datasets and algorithms for anomaly detection combined with Leman Akoglu's https://github.com/cmuxstream/cmuxstream-core.
+This repository contains datasets and algorithms for anomaly detection combined with https://github.com/cmuxstream/cmuxstream-core.
 
 ### Prerequisites
 ```
