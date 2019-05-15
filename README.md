@@ -1,5 +1,5 @@
-# Standard Anomaly Detection Algorithms
-This repository contains datasets and algorithms for anomaly detection.
+# Anomaly Detection Algorithms Combined with Streamhash
+This repository contains datasets and algorithms for anomaly detection combined with Leman Akoglu's https://github.com/cmuxstream/cmuxstream-core.
 
 ### Prerequisites
 ```
